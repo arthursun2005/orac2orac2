@@ -1,5 +1,7 @@
 # Orac 2 Orac2
 
+Automatically submits all your orac1 solutions to orac2 problems which you haven't solved.
+
 ## Usage
 
 
